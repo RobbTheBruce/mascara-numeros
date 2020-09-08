@@ -1,5 +1,3 @@
 const mascara = require('./mascara');
 
-module.exports = {
-    mascara
-};
+module.exports = mascara;
