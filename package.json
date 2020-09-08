@@ -1,6 +1,6 @@
 {
   "name": "mascara-numeros",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin para implementação de mascara em números",
   "main": "index.js",
   "scripts": {},
