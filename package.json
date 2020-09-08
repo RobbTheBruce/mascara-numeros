@@ -1,0 +1,14 @@
+{
+  "name": "mascara-numeros",
+  "version": "1.0.0",
+  "description": "Plugin para implementação de mascara em números",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "mascara",
+    "node"
+  ],
+  "author": "Roberto Martins",
+  "license": "ISC"
+}
