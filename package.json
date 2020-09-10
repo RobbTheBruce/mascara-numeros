@@ -1,9 +1,13 @@
 {
   "name": "mascara-numeros",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plugin para implementação de mascara em números",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobbTheBruce/mascara-numeros.git"
+  },
   "keywords": [
     "mascara",
     "node"
