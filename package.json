@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/RobbTheBruce/mascara-numeros.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "keywords": [
     "mascara",
     "node"
