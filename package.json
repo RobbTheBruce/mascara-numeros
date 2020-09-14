@@ -1,20 +1,24 @@
 {
-  "name": "mascara-numeros",
-  "version": "1.0.3",
+  "name": "@robmartins/mascara-numeros",
+  "version": "1.0.4",
   "description": "Plugin para implementação de mascara em números",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobbTheBruce/mascara-numeros.git"
+    "url": "git+https://github.com/RobbTheBruce/mascara-numeros.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "mascara",
     "node"
   ],
   "author": "Roberto Martins",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobbTheBruce/mascara-numeros/issues"
+  },
+  "homepage": "https://github.com/RobbTheBruce/mascara-numeros#readme"
 }
