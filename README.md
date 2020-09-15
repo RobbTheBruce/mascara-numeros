@@ -16,4 +16,4 @@ console.log(mascara('49331795068','999.999.999-99')); //retorna "493.317.950-68"
 ```
 
 Se for util pra vc, ajude doando no link:
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=772EPN8HX9EKQ)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KFY4VDJHK75F2)
