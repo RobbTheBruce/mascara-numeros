@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RobbTheBruce/mascara-numeros.git"
+    "url": "https://github.com/RobbTheBruce/mascara-numeros.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
